@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giandulfo.Visit my webpage! - https://www.giandulfo.co.uk/
+- 👋 Hi, I’m @giandulfo. Visit my webpage! - https://www.giandulfo.co.uk/
 - 👀 I’m interested in AWS, Python and Coffee
 - 🌱 I’m currently learning AWS Security Specialty
 - 📫 Reach me on giandulfo@yahoo.com
